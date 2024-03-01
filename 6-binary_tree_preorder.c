@@ -2,12 +2,12 @@
 
 /**
  * binary_tree_preorder - a function that goes through a binary tree
- * 				using pre-order traversal
+ *                        using pre-order traversal
  * @tree: pointer to the root node of the binary tree
  * @func: pointer to the function to be applied to each node's value
- * 
+ *
  * Return: void
-*/
+ */
 
 void binary_tree_preorder(const binary_tree_t *tree, void (*func)(int))
 {
