@@ -5,13 +5,13 @@
  * @tree: pointer to the root node of the binary tree
  *
  * Return: the height of the binary tree
-*/
+ */
 
 size_t binary_tree_height(const binary_tree_t *tree)
 {
 	int left = 0, right = 0;
 
-	if(!tree)
+	if (!tree)
 		return (0);
 
 	if (tree->left)
