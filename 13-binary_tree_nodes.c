@@ -4,9 +4,9 @@
  * binary_tree_nodes - a function that counts the nodes with
  *                     at least 1 child in a binary tree
  * @tree: pointer to the root node of the binary tree
- * 
+ *
  * Return: the number of nodes in the binary tree
-*/
+ */
 
 size_t binary_tree_nodes(const binary_tree_t *tree)
 {
