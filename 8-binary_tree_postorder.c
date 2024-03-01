@@ -5,7 +5,7 @@
  *                         using post-order traversal
  * @tree: a pointer to the root node of the binary tree
  * @func: a pointer to the function to be applied to each node's value
- * 
+ *
  * Return: void
 */
 
