@@ -3,9 +3,9 @@
 /**
  * binary_tree_size - a function that measures the size of a binary tree
  * @tree: pointer to the root node of the binary tree
- * 
+ *
  * Return: the size of the binary tree
-*/
+ */
 
 size_t binary_tree_size(const binary_tree_t *tree)
 {
